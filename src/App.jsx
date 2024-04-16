@@ -36,6 +36,8 @@ function App() {
           </div>
         </section>
       </main>
+      <h1>ESTO ES UNA PRUEBA</h1>
+      <h1>ESTO ES UNA PRUEBA LOL</h1>
    </div>
   )
 }
